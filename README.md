@@ -1,5 +1,5 @@
 # Upload-Multi-Images
-  Example how to upload mutlible file to server with other text fields using okHttp library.
+  Example how to upload mutlible file to server with other params using okHttp library.
  
  ------ 
  
